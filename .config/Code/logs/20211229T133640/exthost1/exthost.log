@@ -1,0 +1,17 @@
+[2021-12-29 13:36:41.882] [exthost] [info] Extension host with pid 5499 started
+[2021-12-29 13:36:41.882] [exthost] [info] Skipping acquiring lock for /home/zero/.config/Code/User/workspaceStorage/0502d0aa4514952bb560268ecd6454a0.
+[2021-12-29 13:36:41.965] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-12-29 13:36:41.974] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-29 13:36:41.976] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-29 13:36:41.978] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2021-12-29 13:36:41.980] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2021-12-29 13:36:41.994] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-29 13:36:42.008] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-29 13:36:42.061] [exthost] [info] Eager extensions activated
+[2021-12-29 13:36:42.081] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-29 13:36:42.087] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-29 13:36:42.089] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-29 13:36:42.255] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-29 13:36:42.265] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-12-29 13:37:07.962] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-12-29 13:37:07.975] [exthost] [info] Extension host with pid 5499 exiting with code 0

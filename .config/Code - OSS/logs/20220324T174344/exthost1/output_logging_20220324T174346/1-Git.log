@@ -1,0 +1,23 @@
+[2022-03-24T22:43:49.290Z] Validating found git in: git
+[2022-03-24T22:43:49.301Z] Using git 2.35.1 from git
+[2022-03-24T22:43:49.352Z] > git rev-parse --git-dir [1ms]
+[2022-03-24T22:43:49.358Z] Open repository: /home/zero/.oh-my-zsh
+[2022-03-24T22:43:49.452Z] > git rev-parse --git-dir [1ms]
+[2022-03-24T22:43:49.455Z] Open repository: /home/zero/my_arch_configuration
+[2022-03-24T22:43:49.484Z] > git symbolic-ref --short HEAD [13ms]
+[2022-03-24T22:43:49.488Z] > git symbolic-ref --short HEAD [4ms]
+[2022-03-24T22:43:49.492Z] > git rev-parse --git-dir [16ms]
+[2022-03-24T22:43:49.494Z] Open repository: /home/zero/zarch
+[2022-03-24T22:43:49.499Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [7ms]
+[2022-03-24T22:43:49.507Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [19ms]
+[2022-03-24T22:43:49.520Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+[2022-03-24T22:43:49.521Z] > git remote --verbose [15ms]
+[2022-03-24T22:43:49.521Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [19ms]
+[2022-03-24T22:43:49.999Z] > git symbolic-ref --short HEAD [479ms]
+[2022-03-24T22:43:50.002Z] > git remote --verbose [488ms]
+[2022-03-24T22:43:50.009Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [7ms]
+[2022-03-24T22:43:50.015Z] > git config --get commit.template [17ms]
+[2022-03-24T22:43:50.030Z] > git remote --verbose [15ms]
+[2022-03-24T22:43:50.030Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [18ms]
+[2022-03-24T22:43:50.031Z] > git config --get commit.template [23ms]
+[2022-03-24T22:43:50.036Z] > git config --get commit.template [1ms]

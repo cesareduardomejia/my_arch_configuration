@@ -1,0 +1,57 @@
+[Info  - 5:29:44 PM] Pylance language server 2021.12.2 (pyright 211ebe44) starting
+[Info  - 5:29:44 PM] Server root directory: /home/zero/.vscode/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 5:29:44 PM] No configuration file found.
+[Info  - 5:29:44 PM] No pyproject.toml file found.
+[Info  - 5:29:44 PM] Setting pythonPath for service "zero": "/bin/python"
+[Warn  - 5:29:44 PM] stubPath /home/zero/typings is not a valid directory.
+[Info  - 5:29:45 PM] Assuming Python version 3.10
+[Info  - 5:29:45 PM] Assuming Python platform Linux
+[Warn  - 5:29:45 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 5:29:45 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 5:29:45 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 5:29:45 PM] Searching for source files
+[Info  - 5:29:48 PM] Found 5455 source files
+[Info  - 5:29:48 PM] Background analysis(1) root directory: /home/zero/.vscode/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 5:29:48 PM] Background analysis(1) started
+[Info  - 5:29:48 PM] Searching for source files
+[Info  - 5:29:51 PM] Found 5621 source files
+[Info  - 5:29:52 PM] Searching for source files
+[Info  - 5:29:55 PM] Found 5621 source files
+[Info  - 5:29:55 PM] Searching for source files
+[Info  - 5:29:59 PM] Found 5621 source files
+[Info  - 5:29:59 PM] Searching for source files
+[Info  - 5:30:02 PM] Found 5621 source files
+[Info  - 5:30:02 PM] Searching for source files
+[Info  - 5:30:05 PM] Found 5621 source files
+[Info  - 5:30:57 PM] Searching for source files
+[Info  - 5:30:59 PM] Found 5621 source files
+[Info  - 5:31:35 PM] Searching for source files
+[Info  - 5:31:38 PM] Found 5621 source files
+[Info  - 5:31:38 PM] Searching for source files
+[Info  - 5:31:41 PM] Found 5621 source files
+[Info  - 5:31:41 PM] Searching for source files
+[Info  - 5:31:44 PM] Found 5621 source files
+[Info  - 5:31:44 PM] Searching for source files
+[Info  - 5:31:47 PM] Found 5621 source files
+[Info  - 5:32:01 PM] Searching for source files
+[Info  - 5:32:06 PM] Found 5621 source files
+[Info  - 5:32:07 PM] Searching for source files
+[Info  - 5:32:10 PM] Found 5621 source files
+[Info  - 5:32:14 PM] Searching for source files
+[Info  - 5:32:17 PM] Found 5621 source files
+[Info  - 5:32:40 PM] Searching for source files
+[Info  - 5:32:43 PM] Found 5621 source files
+[Info  - 5:33:36 PM] Searching for source files
+[Info  - 5:33:40 PM] Found 5621 source files
+[Info  - 5:33:40 PM] Searching for source files
+[Info  - 5:33:43 PM] Found 5621 source files
+[Info  - 5:33:43 PM] Searching for source files
+[Info  - 5:33:47 PM] Found 5621 source files
+[Info  - 5:33:47 PM] Searching for source files
+[Info  - 5:33:50 PM] Found 5621 source files
+[Info  - 5:34:16 PM] Searching for source files
+[Info  - 5:34:20 PM] Found 5621 source files
+[Info  - 5:34:38 PM] Searching for source files
+[Info  - 5:34:42 PM] Found 5621 source files
+[Info  - 5:35:06 PM] Searching for source files
+[Info  - 5:35:08 PM] Found 5621 source files

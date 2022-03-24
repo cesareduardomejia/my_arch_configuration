@@ -1,0 +1,25 @@
+[2021-12-31 22:20:56.178] [exthost] [info] Extension host with pid 42788 started
+[2021-12-31 22:20:56.178] [exthost] [info] Skipping acquiring lock for /home/zero/.config/Code/User/workspaceStorage/0502d0aa4514952bb560268ecd6454a0.
+[2021-12-31 22:20:56.341] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-12-31 22:20:56.352] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2021-12-31 22:20:56.449] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-31 22:20:56.841] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-31 22:20:56.844] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-31 22:20:56.847] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2021-12-31 22:20:56.849] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2021-12-31 22:20:57.245] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-31 22:20:57.265] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-31 22:20:57.786] [exthost] [info] Eager extensions activated
+[2021-12-31 22:20:57.895] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-31 22:20:58.044] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-31 22:20:58.054] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-31 22:20:58.056] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-31 22:20:58.335] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-31 22:20:58.365] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-12-31 22:20:58.532] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1285
+[2021-12-31 22:21:35.809] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-31 22:21:35.810] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:127536
+	at async T.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:93216)

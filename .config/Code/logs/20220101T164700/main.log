@@ -1,0 +1,5 @@
+[2022-01-01 16:47:01.112] [main] [info] update#setState idle
+[2022-01-01 16:47:01.158] [main] [info] ExtensionHostStarterWorker created
+[2022-01-01 16:47:02.509] [main] [info] Starting extension host with pid 1959 (fork() took 8 ms).
+[2022-01-01 16:47:31.118] [main] [info] update#setState checking for updates
+[2022-01-01 16:47:31.261] [main] [info] update#setState idle

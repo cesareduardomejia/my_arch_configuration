@@ -1,0 +1,7 @@
+[2021-12-29 13:36:40.317] [main] [info] update#setState idle
+[2021-12-29 13:36:40.352] [main] [info] ExtensionHostStarterWorker created
+[2021-12-29 13:36:41.192] [main] [info] Starting extension host with pid 5499 (fork() took 5 ms).
+[2021-12-29 13:37:07.977] [main] [info] Waiting for extension host with pid 5499 to exit.
+[2021-12-29 13:37:07.990] [main] [info] Extension host with pid 5499 exited with code: 0, signal: null.
+[2021-12-29 13:37:10.319] [main] [info] update#setState checking for updates
+[2021-12-29 13:37:10.459] [main] [info] update#setState idle

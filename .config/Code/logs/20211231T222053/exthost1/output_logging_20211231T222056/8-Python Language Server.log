@@ -1,0 +1,17 @@
+[Info  - 10:21:00 PM] Pylance language server 2021.12.2 (pyright 211ebe44) starting
+[Info  - 10:21:00 PM] Server root directory: /home/zero/.vscode/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 10:21:00 PM] No configuration file found.
+[Info  - 10:21:00 PM] No pyproject.toml file found.
+[Info  - 10:21:00 PM] Setting pythonPath for service "zero": "/bin/python"
+[Warn  - 10:21:00 PM] stubPath /home/zero/typings is not a valid directory.
+[Info  - 10:21:00 PM] Assuming Python version 3.10
+[Info  - 10:21:00 PM] Assuming Python platform Linux
+[Warn  - 10:21:00 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 10:21:00 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 10:21:00 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 10:21:00 PM] Searching for source files
+[Info  - 10:21:06 PM] Found 5521 source files
+[Info  - 10:21:06 PM] Background analysis(1) root directory: /home/zero/.vscode/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 10:21:06 PM] Background analysis(1) started
+[Info  - 10:21:44 PM] Searching for source files
+[Info  - 10:21:49 PM] Found 5687 source files

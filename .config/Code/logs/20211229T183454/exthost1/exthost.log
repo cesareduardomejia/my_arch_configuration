@@ -1,0 +1,20 @@
+[2021-12-29 18:34:56.740] [exthost] [info] Extension host with pid 17111 started
+[2021-12-29 18:34:56.741] [exthost] [info] Skipping acquiring lock for /home/zero/.config/Code/User/workspaceStorage/0502d0aa4514952bb560268ecd6454a0.
+[2021-12-29 18:34:56.810] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-12-29 18:34:56.818] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-29 18:34:56.820] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-29 18:34:56.822] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2021-12-29 18:34:56.823] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2021-12-29 18:34:56.913] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-29 18:34:56.938] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-29 18:34:57.013] [exthost] [info] Eager extensions activated
+[2021-12-29 18:34:57.053] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-29 18:34:57.061] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-29 18:34:57.063] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-29 18:34:57.310] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-29 18:34:57.318] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-12-29 18:34:57.469] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 712
+[2021-12-29 18:35:01.469] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 714
+[2021-12-29 18:35:06.547] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 714
+[2021-12-29 18:35:11.632] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 727
+[2021-12-29 19:12:08.063] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 846

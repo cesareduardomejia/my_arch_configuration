@@ -1,0 +1,122 @@
+[2021-12-31 19:07:07.772] [exthost] [info] Extension host with pid 12324 started
+[2021-12-31 19:07:07.772] [exthost] [info] Skipping acquiring lock for /home/zero/.config/Code/User/workspaceStorage/0502d0aa4514952bb560268ecd6454a0.
+[2021-12-31 19:07:07.886] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-12-31 19:07:07.903] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-31 19:07:07.908] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-31 19:07:07.912] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2021-12-31 19:07:07.916] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2021-12-31 19:07:08.065] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-31 19:07:08.103] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-31 19:07:08.195] [exthost] [info] Eager extensions activated
+[2021-12-31 19:07:08.271] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-31 19:07:08.281] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-31 19:07:08.284] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-31 19:07:08.798] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-31 19:07:08.887] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1256
+[2021-12-31 19:07:09.457] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-12-31 19:07:20.804] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1258
+[2021-12-31 19:07:25.920] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1258
+[2021-12-31 19:07:29.577] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2021-12-31 19:07:29.671] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-31 19:07:30.607] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-31 19:07:31.140] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1261
+[2021-12-31 19:07:36.262] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1262
+[2021-12-31 19:07:39.810] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-31 19:07:39.810] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:90908)
+[2021-12-31 19:07:41.275] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-31 19:07:41.275] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:90908)
+[2021-12-31 19:07:41.351] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1262
+[2021-12-31 19:07:46.454] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1262
+[2021-12-31 19:07:51.532] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1262
+[2021-12-31 19:07:56.642] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1262
+[2021-12-31 19:08:01.723] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1263
+[2021-12-31 19:08:03.365] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-31 19:08:03.366] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:127536
+	at async T.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:93216)
+[2021-12-31 19:08:03.370] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-31 19:08:03.370] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:127536
+	at async T.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:93216)
+[2021-12-31 19:08:03.393] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-31 19:08:03.393] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:127536
+	at async T.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:93216)
+[2021-12-31 19:08:06.810] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1263
+[2021-12-31 19:08:06.853] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-31 19:08:06.854] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:127536
+	at async T.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:93216)
+[2021-12-31 19:08:11.902] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1264
+[2021-12-31 19:08:20.732] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1264
+[2021-12-31 19:08:25.822] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1264
+[2021-12-31 19:11:31.969] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1264
+[2021-12-31 19:11:43.540] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1264
+[2021-12-31 19:14:04.556] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1264
+[2021-12-31 19:14:37.928] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1264
+[2021-12-31 19:16:16.861] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1264
+[2021-12-31 19:16:21.969] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1264
+[2021-12-31 19:16:27.075] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1264
+[2021-12-31 19:16:32.177] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1264
+[2021-12-31 19:16:37.277] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1264
+[2021-12-31 19:16:42.377] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1265
+[2021-12-31 19:16:47.477] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1265
+[2021-12-31 19:16:52.576] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1265
+[2021-12-31 19:20:09.386] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1265
+[2021-12-31 19:20:23.250] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1264
+[2021-12-31 19:21:28.327] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1264
+[2021-12-31 19:21:33.403] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1265
+[2021-12-31 19:21:40.794] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1265
+[2021-12-31 19:23:08.722] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1264
+[2021-12-31 19:23:13.826] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1264
+[2021-12-31 19:23:18.930] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1264
+[2021-12-31 19:23:24.033] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1265
+[2021-12-31 19:25:24.093] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1265
+[2021-12-31 19:26:09.201] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1265
+[2021-12-31 19:27:28.937] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1265
+[2021-12-31 19:27:34.043] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1265
+[2021-12-31 19:28:30.233] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1265
+[2021-12-31 19:29:29.825] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1265
+[2021-12-31 19:29:44.009] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1265
+[2021-12-31 19:29:52.827] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1265
+[2021-12-31 19:30:00.542] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1265
+[2021-12-31 19:30:05.644] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1265
+[2021-12-31 19:30:12.297] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-31 19:30:12.297] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:127536
+	at async T.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:93216)
+[2021-12-31 19:30:29.555] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1265
+[2021-12-31 19:30:34.643] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1264
+[2021-12-31 19:30:39.760] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1264
+[2021-12-31 19:30:44.865] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1264
+[2021-12-31 19:32:41.310] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1264
+[2021-12-31 19:32:43.364] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-31 19:32:43.364] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/zero/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:90908)
+[2021-12-31 19:32:46.410] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1264
+[2021-12-31 19:32:51.507] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1264
+[2021-12-31 19:32:56.597] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1265
+[2021-12-31 19:33:01.682] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1265
+[2021-12-31 19:34:20.085] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-12-31 19:34:20.113] [exthost] [info] Extension host with pid 12324 exiting with code 0
