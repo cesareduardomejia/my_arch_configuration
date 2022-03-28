@@ -1,0 +1,4 @@
+[2022-03-28 07:57:42.036] [renderer1] [error] ["Error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files"]
+[2022-03-28 07:57:42.036] [renderer1] [warning] Settings Sync: Accounts are not initialized
+[2022-03-28 07:58:10.223] [renderer1] [error] Failed to execute git
+[2022-03-28 07:58:18.013] [renderer1] [error] Failed to execute git

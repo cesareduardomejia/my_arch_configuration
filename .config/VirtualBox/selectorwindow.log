@@ -1,0 +1,24 @@
+00:00:00.275315 VirtualBox GUI VM Selector Window 6.1.30 r148432 linux.amd64 (Dec 10 2021 19:46:42) release log
+00:00:00.275316 Log opened 2021-12-29T20:34:38.533581000Z
+00:00:00.275316 Build Type: release
+00:00:00.275318 OS Product: Linux
+00:00:00.275319 OS Release: 5.15.11-zen1-1-zen
+00:00:00.275320 OS Version: #1 ZEN SMP PREEMPT Wed, 22 Dec 2021 09:23:53 +0000
+00:00:00.275350 DMI Product Name: Nitro AN515-52
+00:00:00.275357 DMI Product Version: V1.28
+00:00:00.275360 Firmware type: UEFI
+00:00:00.276030 Secure Boot: Disabled
+00:00:00.276068 Host RAM: 7786MB (7.6GB) total, 7209MB (7.0GB) available
+00:00:00.276071 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.276071 Process ID: 1251
+00:00:00.276072 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.276102 Qt version: 5.15.2
+00:00:00.291902 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.291918 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.659338 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 550x20 x 675x736
+00:00:00.659495 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 1233x20 x 675x736
+00:00:56.909160 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:56.959011 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:17.541507 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:20.905457 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:20.950122 GUI: UIMediumEnumerator: Medium-enumeration finished!

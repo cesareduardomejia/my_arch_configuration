@@ -1,0 +1,20 @@
+[Info  - 9:34:46 AM] (3983) Pylance language server 2022.3.3 (pyright dd7420c5) starting
+[Info  - 9:34:46 AM] (3983) Server root directory: /home/zero/.vscode/extensions/ms-python.vscode-pylance-2022.3.3/dist
+[Info  - 9:34:46 AM] (3983) No configuration file found.
+[Info  - 9:34:46 AM] (3983) No pyproject.toml file found.
+[Info  - 9:34:46 AM] (3983) Setting pythonPath for service "zero": "/bin/python"
+[Warn  - 9:34:46 AM] (3983) stubPath /home/zero/typings is not a valid directory.
+[Info  - 9:34:46 AM] (3983) Assuming Python version 3.10
+[Info  - 9:34:46 AM] (3983) Assuming Python platform Linux
+[Warn  - 9:34:47 AM] (3983) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 9:34:47 AM] (3983) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 9:34:47 AM] (3983) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 9:34:47 AM] (3983) Searching for source files
+[Info  - 9:34:47 AM] (3983) No source files found.
+[Info  - 9:34:47 AM] (3983) Background analysis(1) root directory: /home/zero/.vscode/extensions/ms-python.vscode-pylance-2022.3.3/dist
+[Info  - 9:34:47 AM] (3983) Background analysis(1) started
+[Info  - 9:34:48 AM] (3983) Indexer background runner(2) root directory: /home/zero/.vscode/extensions/ms-python.vscode-pylance-2022.3.3/dist (index)
+[Info  - 9:34:48 AM] (3983) Indexing(2) started
+[Info  - 9:34:49 AM] (3983) Indexer done(2). indexed 442 files
+[Info  - 9:34:53 AM] (3983) Searching for source files
+[Info  - 9:34:53 AM] (3983) No source files found.

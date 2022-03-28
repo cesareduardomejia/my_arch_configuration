@@ -1,0 +1,4 @@
+[2022-03-24 17:13:11.412] [exthost] [info] Extension host with pid 35449 started
+[2022-03-24 17:13:11.412] [exthost] [info] Skipping acquiring lock for /home/zero/.config/Code - OSS/User/workspaceStorage/d79328ceef6f61d8874fa82d51cab947.
+[2022-03-24 17:13:11.489] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-24 17:13:11.490] [exthost] [info] Extension host with pid 35449 exiting with code 0

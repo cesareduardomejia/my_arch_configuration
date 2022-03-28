@@ -1,0 +1,22 @@
+[2022-03-28 07:57:43.064] [sharedprocess] [info] Starting worker process with pid 1425 (type: fileWatcher, window: 1).
+[2022-03-28 07:59:01.812] [sharedprocess] [info] Getting Manifest... pkief.material-icon-theme
+[2022-03-28 07:59:01.821] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-03-28 07:59:03.624] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/zero/.config/Code/CachedExtensionVSIXs/pkief.material-icon-theme-4.14.1
+[2022-03-28 07:59:04.634] [sharedprocess] [info] Extracted extension to /home/zero/.vscode/extensions/.daad97d2-204f-4453-871c-f98f4b216195: pkief.material-icon-theme
+[2022-03-28 07:59:04.650] [sharedprocess] [info] Renamed to /home/zero/.vscode/extensions/pkief.material-icon-theme-4.14.1
+[2022-03-28 07:59:04.652] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-03-28 07:59:04.654] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
+[2022-03-28 07:59:59.322] [sharedprocess] [info] Getting Manifest... wendreof.ufo
+[2022-03-28 07:59:59.327] [sharedprocess] [info] Installing extension: wendreof.ufo
+[2022-03-28 08:00:00.616] [sharedprocess] [info] Downloaded extension: wendreof.ufo /home/zero/.config/Code/CachedExtensionVSIXs/wendreof.ufo-0.0.14
+[2022-03-28 08:00:03.008] [sharedprocess] [info] Extracted extension to /home/zero/.vscode/extensions/.6e8b5c9c-fee7-41cd-aba6-c4367a532fe1: wendreof.ufo
+[2022-03-28 08:00:03.023] [sharedprocess] [info] Renamed to /home/zero/.vscode/extensions/wendreof.ufo-0.0.14
+[2022-03-28 08:00:03.024] [sharedprocess] [info] Extracting completed. wendreof.ufo
+[2022-03-28 08:00:03.027] [sharedprocess] [info] Extension installed successfully: wendreof.ufo
+[2022-03-28 08:00:51.282] [sharedprocess] [info] Getting Manifest... coenraads.bracket-pair-colorizer-2
+[2022-03-28 08:00:51.290] [sharedprocess] [info] Installing extension: coenraads.bracket-pair-colorizer-2
+[2022-03-28 08:00:52.627] [sharedprocess] [info] Downloaded extension: coenraads.bracket-pair-colorizer-2 /home/zero/.config/Code/CachedExtensionVSIXs/coenraads.bracket-pair-colorizer-2-0.2.4
+[2022-03-28 08:00:52.748] [sharedprocess] [info] Extracted extension to /home/zero/.vscode/extensions/.8bff6c73-a715-4ac6-8b3b-8392c0f7c212: coenraads.bracket-pair-colorizer-2
+[2022-03-28 08:00:52.762] [sharedprocess] [info] Renamed to /home/zero/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.4
+[2022-03-28 08:00:52.763] [sharedprocess] [info] Extracting completed. coenraads.bracket-pair-colorizer-2
+[2022-03-28 08:00:52.765] [sharedprocess] [info] Extension installed successfully: coenraads.bracket-pair-colorizer-2
